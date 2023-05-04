@@ -1,2 +1,2 @@
 # location-api
-It's an html page to get your location (lat, long) by API
+It's a html page to get your location (lat, long) by API
